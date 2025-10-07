@@ -46,14 +46,13 @@ plt.axis('off')
 ```
 ### Output :
 #### Input image and grayscale image :
-<img width="441" height="467" alt="image" src="https://github.com/user-attachments/assets/5d5f8dc1-6fd2-4066-9b7c-6bcebb219513" />
-<img width="446" height="459" alt="image" src="https://github.com/user-attachments/assets/f6ffe7af-81c8-4fd1-9a52-920259a87a60" />
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/9161ca7f-d246-4485-895f-4c6ff6414583" />
 
 #### Canny Edge detector output :
-<img width="440" height="451" alt="image" src="https://github.com/user-attachments/assets/67c112b6-2c45-4158-968c-ce0f031bec28" />
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/e6fd5019-4874-4c53-b348-912cc8971dda" />
 
 #### Display the result of Hough transform :
-<img width="438" height="458" alt="image" src="https://github.com/user-attachments/assets/eb315152-d533-4e16-8328-f89366a82544" />
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/f2b52891-c95f-47e9-aefa-6d34a2d568d4" />
 
 ### Result :
 Thus, the Python program to detect the lines using Hough Transform run successfully.
